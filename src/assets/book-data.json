@@ -1,0 +1,118 @@
+[
+  {
+        "id": 121,
+    "author": "Chinua Achebe",
+    "createDate": "2011-05-26 12:00:00",
+    "updateDate": "2011-05-26 12:00:00",
+    "numberOfPages": 209,
+    "name": "Things Fall Apart",
+    "dateOfPublication": "July 26,1997"
+  },
+  {
+      "id":120,
+    "author": "Hans Christian Andersen",
+    "createDate": "2011-05-26 12:00:00",
+    "updateDate": "2011-05-26 12:00:00",
+    "numberOfPages": 784,
+    "name": "Fairy tales",
+    "dateOfPublication": "Aug 22 ,2008"
+  },
+  {
+        "id": 122,
+    "author": "Dante Alighieri",
+    "createDate": "2011-05-26 12:00:00",
+    "updateDate": "2011-05-26 12:00:00",
+    "numberOfPages": 928,
+    "name": "The Divine Comedy",
+    "dateOfPublication": "Jan 22 ,1992"
+  },
+  {
+        "id": 123,
+    "author": "Unknown",
+    "createDate": "2011-05-26 12:00:00",
+    "updateDate": "2011-05-26 12:00:00",
+    "numberOfPages": 160,
+    "name": "The Epic Of Gilgamesh",
+    "dateOfPublication": "Sept 12,1999"
+  },
+  {
+        "id": 124,
+    "author": "Unknown",
+    "createDate": "2011-05-26 12:00:00",
+    "updateDate": "2011-05-26 12:00:00",
+    "numberOfPages": 176,
+    "name": "The Book Of Job",
+    "dateOfPublication": "Oct 10,2010"
+  },
+  {
+        "id": 125,
+    "author": "Unknown",
+    "createDate": "2011-05-26 12:00:00",
+    "updateDate": "2011-05-26 12:00:00",
+    "numberOfPages": 288,
+    "name": "One Thousand and One Nights",
+    "dateOfPublication": "Nov 18,2000"
+  },
+  {
+        "id": 126,
+    "author": "Unknown",
+    "createDate": "2011-05-26 12:00:00",
+    "updateDate": "2011-05-26 12:00:00",
+    "numberOfPages": 384,
+    "name": "Nj\u00e1l's Saga",
+    "dateOfPublication": "July 26,1992"
+  },
+  {
+        "id": 127,
+    "author": "Jane Austen",
+    "createDate": "2011-05-26 12:00:00",
+    "updateDate": "2011-05-26 12:00:00",
+    "numberOfPages": 226,
+    "name": "Pride and Prejudice",
+    "dateOfPublication": "Oct 5,1997"
+  },
+  {
+        "id": 128,
+    "author": "Honor\u00e9 de Balzac",
+    "createDate": "2011-05-26 12:00:00",
+    "updateDate": "2011-05-26 12:00:00",
+    "numberOfPages": 443,
+    "name": "Le P\u00e8re Goriot",
+    "dateOfPublication": "Dec 5,1997"
+  },
+  {
+        "id": 129,
+    "author": "Samuel Beckett",
+    "createDate": "2011-05-26 12:00:00",
+    "updateDate": "2011-05-26 12:00:00",
+    "numberOfPages": 256,
+    "name": "Molloy, Malone Dies, The Unnamable, the trilogy",
+    "dateOfPublication": "Feb 15,2012"
+  },
+  {
+        "id": 130,
+    "author": "Giovanni Boccaccio",
+    "createDate": "2011-05-26 12:00:00",
+    "updateDate": "2011-05-26 12:00:00",
+    "numberOfPages": 1024,
+    "name": "The Decameron",
+    "dateOfPublication": "feb 20,2017"
+  },
+  {
+        "id": 131,
+    "author": "Jorge Luis Borges",
+    "createDate": "2011-05-26 12:00:00",
+    "updateDate": "2011-05-26 12:00:00",
+    "numberOfPages": 224,
+    "name": "Ficciones",
+    "dateOfPublication": "March 15,2013"
+  },
+  {
+        "id": 132,
+    "author": "Emily Bront\u00eb",
+    "createDate": "2011-05-26 12:00:00",
+    "updateDate": "2011-05-26 12:00:00",
+    "numberOfPages": 342,
+    "name": "Wuthering Heights",
+    "dateOfPublication": "April 26,1998"
+  }]
